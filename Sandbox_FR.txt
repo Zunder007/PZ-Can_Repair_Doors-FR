@@ -1,0 +1,6 @@
+Sandbox_FR = {
+    Sandbox_CanRepairDoors = "Can Repair Doors",
+    Sandbox_CanRepairDoorsRepairSkillNeeded = "Compétence en réparation requise",
+    Sandbox_CanRepairDoorsReinforceSkillNeeded = "Compétence requise pour renforcer les portes",
+    Sandbox_CanRepairDoorsmultiplyerMaxReinforcement = "Multiplicateur de renforcement maximum",
+}
